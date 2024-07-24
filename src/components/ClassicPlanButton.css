@@ -1,0 +1,166 @@
+.blue-checksvg-icon {
+  height: 20.9px;
+  width: 20px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 21px;
+}
+.works-on-multiple {
+  position: relative;
+  line-height: 17px;
+}
+.container3,
+.create-button-content {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 var(--padding-11xs-8);
+}
+.container3 {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: var(--padding-8xs) var(--padding-2xl);
+  gap: var(--gap-3xs);
+}
+.blue-checksvg-icon1 {
+  height: 20.9px;
+  width: 20px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 21px;
+}
+.download-in-different {
+  position: relative;
+  line-height: 17px;
+}
+.button-content,
+.container4 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 var(--padding-11xs-9);
+}
+.container4 {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: var(--padding-8xs) var(--padding-2xl);
+  gap: var(--gap-3xs);
+}
+.blue-checksvg-icon2 {
+  height: 20.9px;
+  width: 20px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 21px;
+}
+.unlimited-cvs {
+  position: relative;
+  line-height: 16.8px;
+  display: inline-block;
+  min-width: 93.2px;
+}
+.container5,
+.three-content {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 var(--padding-11xs);
+}
+.container5 {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: var(--padding-8xs) var(--padding-2xl);
+  gap: var(--gap-3xs);
+}
+.gray-crosssvg-icon {
+  height: 20.9px;
+  width: 20px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+  min-height: 21px;
+}
+.unlimited-optimised-models {
+  position: relative;
+  line-height: 17px;
+}
+.container6,
+.four-content {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 var(--padding-11xs-8);
+}
+.container6 {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: var(--padding-8xs) var(--padding-2xl);
+  gap: var(--gap-3xs);
+}
+.gray-crosssvg-icon1 {
+  height: 20.9px;
+  width: 20px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+  min-height: 21px;
+}
+.unlimited-expert-advice {
+  position: relative;
+  line-height: 17px;
+}
+.container7,
+.five-content {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 var(--padding-11xs-9);
+}
+.container7 {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: var(--padding-8xs) var(--padding-2xl);
+  gap: var(--gap-3xs);
+}
+.classic-plan-button,
+.container2 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.container2 {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-12xs-1);
+}
+.classic-plan-button {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0 var(--padding-6xl);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-darkslateblue-100);
+  font-family: var(--font-inter);
+}
